@@ -1,3 +1,11 @@
-git add codemagic.yaml
-git commit -m 'Add first workflow'
-git push
+workflows:
+  ios-build:
+    name: Build iOS App
+    environment:
+      flutter: stable
+      xcode: latest
+    scripts:
+      - name: Build IPA
+        script: flutter build ipa --release
+    artifacts:
+      - build/ios/ipa/*.ipa
