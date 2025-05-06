@@ -1,0 +1,2 @@
+C:/ubberclone/android/app/.cxx/Debug/3g4j131u/x86_64/CMakeFiles/edit_cache.dir
+C:/ubberclone/android/app/.cxx/Debug/3g4j131u/x86_64/CMakeFiles/rebuild_cache.dir

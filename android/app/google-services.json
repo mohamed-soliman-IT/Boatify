@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798439543350",
+    "project_id": "ubber-8f8e8",
+    "storage_bucket": "ubber-8f8e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798439543350:android:9ba73db087d49268f7fe97",
+        "android_client_info": {
+          "package_name": "com.example.ubberclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1fE25g3450MNr4R1p-ratqB7lGEJXBRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

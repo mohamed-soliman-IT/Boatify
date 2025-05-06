@@ -1,0 +1,2 @@
+C:/ubberclone/android/app/.cxx/RelWithDebInfo/3y06fcz5/x86/CMakeFiles/edit_cache.dir
+C:/ubberclone/android/app/.cxx/RelWithDebInfo/3y06fcz5/x86/CMakeFiles/rebuild_cache.dir
